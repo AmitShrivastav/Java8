@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="accessories-resource-epcommerce" />
+        <module name="accessories-totals-resource-epcommerce" />
+        <module name="accounts-resource-epcommerce" />
+        <module name="action-codes-resource-epcommerce" />
+        <module name="activemq-broker" />
+        <module name="apiinfo-resource-epcommerce" />
+        <module name="app-poller" />
+        <module name="applieddiscounts-resource-epcommerce" />
+        <module name="audit-records-resource-epcommerce" />
+        <module name="auth-reversal" />
+        <module name="browse-promotions-resource" />
+        <module name="calculated-financing-resource-epcommerce" />
+        <module name="catalogexport" />
+        <module name="catalogimport" />
+        <module name="charges-resource-epcommerce" />
+        <module name="clonecarts-epcommerce" />
+        <module name="com.elasticpath.cmclient.libs" />
+        <module name="com.elasticpath.cmclient.testlibs" />
+        <module name="cortex-cucumber-promotions-tests" />
+        <module name="credit-check" />
+        <module name="creditcards-resource-epcommerce" />
+        <module name="creditcheck-resource-epcommerce" />
+        <module name="creditlevel-lookup-epcommerce" />
+        <module name="creditprice-resource-epcommerce" />
+        <module name="creditprofile-resource-epcommerce" />
+        <module name="d2a-epcommerce" />
+        <module name="dcp-api-profile" />
+        <module name="dcp-epc-extensions" />
+        <module name="device-resource-epcommerce" />
+        <module name="dice-import" />
+        <module name="eip-eligibility-resource-epcommerce" />
+        <module name="eip-price-availabilities-resource-epcommerce" />
+        <module name="ep-camel-sap" />
+        <module name="ep-kms-encryption-plugin-core" />
+        <module name="ep-legal-agreements-plugin-core" />
+        <module name="ep-legal-agreements-plugin-resource-epcommerce" />
+        <module name="ep-payment-jpay" />
+        <module name="ep-payment-jpay-api" />
+        <module name="ep-standard-cart-converter" />
+        <module name="ep-standard-cart-modification-event-converter" />
+        <module name="ep-standard-cart-modification-event-schema" />
+        <module name="ep-standard-cart-schema" />
+        <module name="ep-standard-common-converter" />
+        <module name="ep-standard-common-schema" />
+        <module name="ep-standard-order-converter" />
+        <module name="ep-standard-order-integration" />
+        <module name="ep-standard-order-schema" />
+        <module name="ep-standard-schema-itests" />
+        <module name="esapi-osgi" />
+        <module name="ext-assets" />
+        <module name="ext-cmserver" />
+        <module name="ext-cmserver-webapp" />
+        <module name="ext-core" />
+        <module name="ext-core-caching" />
+        <module name="ext-core-oauth-messaging" />
+        <module name="ext-cortex-repositories" />
+        <module name="ext-customer-personalization-epcommerce" />
+        <module name="ext-data" />
+        <module name="ext-data-population-cli" />
+        <module name="ext-data-population-core" />
+        <module name="ext-data-population-maven-plugin" />
+        <module name="ext-database-update" />
+        <module name="ext-importexport" />
+        <module name="ext-integration-webapp" />
+        <module name="ext-orders-resource-epcommerce" />
+        <module name="ext-payment-gateway-connectivity-api" />
+        <module name="ext-resource-addresses-epcommerce" />
+        <module name="ext-resource-coupons-epcommerce" />
+        <module name="ext-resource-shipmentdetails-epcommerce" />
+        <module name="ext-search" />
+        <module name="ext-search-resource-epcommerce" />
+        <module name="ext-search-webapp" />
+        <module name="ext-sync" />
+        <module name="extcarts-resource-epcommerce" />
+        <module name="extensions-resource-prices-epcommerce-override" />
+        <module name="extensions-resource-promotions-epcommerce-override" />
+        <module name="external-discount-resource-epcommerce" />
+        <module name="finance-resource-epcommerce" />
+        <module name="flowtype-lookup-epcommerce" />
+        <module name="image-uploads-resource-epcommerce" />
+        <module name="integration-util" />
+        <module name="integrationutil" />
+        <module name="inventory-import" />
+        <module name="inventory-resource-epcommerce" />
+        <module name="itemconfigurations-resource-epcommerce" />
+        <module name="line-type-resource-epcommerce" />
+        <module name="lines-resource-epcommerce" />
+        <module name="monthlydiscounts-resource-epcommerce" />
+        <module name="monthlypayments-resource-epcommerce" />
+        <module name="offer-criteria-resource-epcommerce" />
+        <module name="offers-resource-epcommerce" />
+        <module name="override-price-options-resource-epcommerce" />
+        <module name="paynowprices-resource-epcommerce" />
+        <module name="plan-configurations-resource-epcommerce" />
+        <module name="price-types-resource-epcommerce" />
+        <module name="priceoptions-resource-epcommerce" />
+        <module name="product-definitions-resource-epcommerce" />
+        <module name="products-resource-epcommerce" />
+        <module name="promotion-aes-repository" />
+        <module name="promotion-cleanup" />
+        <module name="promotion-importer" />
+        <module name="refundabledeposit-resource-epcommerce" />
+        <module name="resource-tmo-paymentmethods-integration" />
+        <module name="schedule-jobs-integration" />
+        <module name="search-promotion-resource" />
+        <module name="search-promotions-resource-epcommerce" />
+        <module name="servicetype-lookup-epcommerce" />
+        <module name="shippingoptiontax-resource-epcommerce" />
+        <module name="tax-import" />
+        <module name="taxproviders" />
+        <module name="utility-service-epcommerce" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="accessories-resource" target="1.8" />
+      <module name="accessories-resource-epcommerce" target="1.8" />
+      <module name="accessories-totals-api" target="1.8" />
+      <module name="accessories-totals-resource" target="1.8" />
+      <module name="accessories-totals-resource-epcommerce" target="1.8" />
+      <module name="accounts-api" target="1.8" />
+      <module name="accounts-resource" target="1.8" />
+      <module name="accounts-resource-epcommerce" target="1.8" />
+      <module name="action-codes-api" target="1.8" />
+      <module name="action-codes-resource" target="1.8" />
+      <module name="action-codes-resource-epcommerce" target="1.8" />
+      <module name="activemq-broker" target="1.8" />
+      <module name="apiinfo-api" target="1.8" />
+      <module name="apiinfo-resource" target="1.8" />
+      <module name="apiinfo-resource-epcommerce" target="1.8" />
+      <module name="app-poller" target="1.8" />
+      <module name="applieddiscounts-api" target="1.8" />
+      <module name="applieddiscounts-resource" target="1.8" />
+      <module name="applieddiscounts-resource-epcommerce" target="1.8" />
+      <module name="audit-records-api" target="1.8" />
+      <module name="audit-records-resource" target="1.8" />
+      <module name="audit-records-resource-epcommerce" target="1.8" />
+      <module name="auth-reversal" target="1.8" />
+      <module name="browse-promotions-api" target="1.8" />
+      <module name="browse-promotions-resource" target="1.8" />
+      <module name="calculated-financing-api" target="1.8" />
+      <module name="calculated-financing-resource" target="1.8" />
+      <module name="calculated-financing-resource-epcommerce" target="1.8" />
+      <module name="cart-totals-api" target="1.8" />
+      <module name="cart-totals-resource" target="1.8" />
+      <module name="cartitemmod-common" target="1.8" />
+      <module name="cartitemmodfields-api" target="1.8" />
+      <module name="cartitemmodfields-resource" target="1.8" />
+      <module name="cartitemmodgroups-api" target="1.8" />
+      <module name="cartitemmodgroups-resource" target="1.8" />
+      <module name="cartitemmodoptions-api" target="1.8" />
+      <module name="cartitemmodoptions-resource" target="1.8" />
+      <module name="cartitemmodvalues-api" target="1.8" />
+      <module name="cartitemmodvalues-resource" target="1.8" />
+      <module name="catalogexport" target="1.8" />
+      <module name="catalogimport" target="1.8" />
+      <module name="charges-api" target="1.8" />
+      <module name="charges-resource" target="1.8" />
+      <module name="charges-resource-epcommerce" target="1.8" />
+      <module name="clonecarts-api" target="1.8" />
+      <module name="clonecarts-epcommerce" target="1.8" />
+      <module name="clonecarts-resource" target="1.8" />
+      <module name="com.elasticpath.cmclient.libs" target="1.8" />
+      <module name="com.elasticpath.cmclient.testlibs" target="1.8" />
+      <module name="cortex-cucumber-promotions-tests" target="1.5" />
+      <module name="cortex-system-tests" target="1.5" />
+      <module name="credit-check" target="1.8" />
+      <module name="credit-price-api" target="1.8" />
+      <module name="creditcards-api" target="1.8" />
+      <module name="creditcards-resource" target="1.8" />
+      <module name="creditcards-resource-epcommerce" target="1.8" />
+      <module name="creditcheck-resource" target="1.8" />
+      <module name="creditcheck-resource-epcommerce" target="1.8" />
+      <module name="creditcheckdetails-api" target="1.8" />
+      <module name="creditlevel-lookup-epcommerce" target="1.8" />
+      <module name="creditprice-resource" target="1.8" />
+      <module name="creditprice-resource-epcommerce" target="1.8" />
+      <module name="creditprofile-api" target="1.8" />
+      <module name="creditprofile-resource" target="1.8" />
+      <module name="creditprofile-resource-epcommerce" target="1.8" />
+      <module name="d2a-api" target="1.8" />
+      <module name="d2a-epcommerce" target="1.8" />
+      <module name="d2a-resource" target="1.8" />
+      <module name="dcp-api-profile" target="1.8" />
+      <module name="dcp-epc-extensions" target="1.5" />
+      <module name="dcp-epc-extensions (1)" target="1.5" />
+      <module name="device-resource" target="1.8" />
+      <module name="device-resource-epcommerce" target="1.8" />
+      <module name="dice-import" target="1.8" />
+      <module name="eip-eligibility-api" target="1.8" />
+      <module name="eip-eligibility-resource" target="1.8" />
+      <module name="eip-eligibility-resource-epcommerce" target="1.8" />
+      <module name="eip-price-availabilities-api" target="1.8" />
+      <module name="eip-price-availabilities-resource" target="1.8" />
+      <module name="eip-price-availabilities-resource-epcommerce" target="1.8" />
+      <module name="ep-camel-sap" target="1.8" />
+      <module name="ep-kms-encryption-plugin-core" target="1.8" />
+      <module name="ep-legal-agreements-plugin-core" target="1.8" />
+      <module name="ep-legal-agreements-plugin-resource" target="1.8" />
+      <module name="ep-legal-agreements-plugin-resource-api" target="1.8" />
+      <module name="ep-legal-agreements-plugin-resource-epcommerce" target="1.8" />
+      <module name="ep-payment-jpay" target="1.8" />
+      <module name="ep-payment-jpay-api" target="1.8" />
+      <module name="ep-resource-combined-schema" target="1.8" />
+      <module name="ep-resource-purchases-api" target="1.8" />
+      <module name="ep-rs-bridge" target="1.8" />
+      <module name="ep-standard-cart-converter" target="1.8" />
+      <module name="ep-standard-cart-modification-event-converter" target="1.8" />
+      <module name="ep-standard-cart-modification-event-schema" target="1.8" />
+      <module name="ep-standard-cart-schema" target="1.8" />
+      <module name="ep-standard-common-converter" target="1.8" />
+      <module name="ep-standard-common-schema" target="1.8" />
+      <module name="ep-standard-order-converter" target="1.8" />
+      <module name="ep-standard-order-integration" target="1.8" />
+      <module name="ep-standard-order-schema" target="1.8" />
+      <module name="ep-standard-schema-itests" target="1.8" />
+      <module name="ep-utility-services" target="1.8" />
+      <module name="esapi-osgi" target="1.8" />
+      <module name="ext-accelerators-parent" target="1.5" />
+      <module name="ext-addresses-api" target="1.8" />
+      <module name="ext-addresses-resource" target="1.8" />
+      <module name="ext-assets" target="1.8" />
+      <module name="ext-assets-parent" target="1.5" />
+      <module name="ext-carts-api" target="1.8" />
+      <module name="ext-cmserver" target="1.8" />
+      <module name="ext-cmserver-parent" target="1.5" />
+      <module name="ext-cmserver-webapp" target="1.8" />
+      <module name="ext-commerce-engine-parent" target="1.5" />
+      <module name="ext-commerce-engine-wrapper" target="1.8" />
+      <module name="ext-core" target="1.8" />
+      <module name="ext-core-caching" target="1.8" />
+      <module name="ext-core-oauth-messaging" target="1.8" />
+      <module name="ext-core-parent" target="1.5" />
+      <module name="ext-cortex-ce-parent" target="1.5" />
+      <module name="ext-cortex-common" target="1.5" />
+      <module name="ext-cortex-extensions" target="1.5" />
+      <module name="ext-cortex-integrations-parent" target="1.5" />
+      <module name="ext-cortex-repositories" target="1.8" />
+      <module name="ext-cortex-resources-parent" target="1.5" />
+      <module name="ext-cortex-webapp" target="1.8" />
+      <module name="ext-customer-personalization-epcommerce" target="1.8" />
+      <module name="ext-data" target="1.8" />
+      <module name="ext-data-population-cli" target="1.8" />
+      <module name="ext-data-population-core" target="1.8" />
+      <module name="ext-data-population-maven-plugin" target="1.8" />
+      <module name="ext-data-population-parent" target="1.5" />
+      <module name="ext-database-parent" target="1.5" />
+      <module name="ext-database-update" target="1.8" />
+      <module name="ext-importexport" target="1.8" />
+      <module name="ext-importexport-cli" target="1.5" />
+      <module name="ext-importexport-parent" target="1.5" />
+      <module name="ext-integration-parent" target="1.5" />
+      <module name="ext-integration-webapp" target="1.8" />
+      <module name="ext-messages" target="1.8" />
+      <module name="ext-name-api" target="1.8" />
+      <module name="ext-orders-resource" target="1.8" />
+      <module name="ext-orders-resource-epcommerce" target="1.8" />
+      <module name="ext-osgi-wrappers" target="1.5" />
+      <module name="ext-payment-gateway-connectivity" target="1.5" />
+      <module name="ext-payment-gateway-connectivity-api" target="1.8" />
+      <module name="ext-payment-gateways" target="1.5" />
+      <module name="ext-paymentmethods-api" target="1.8" />
+      <module name="ext-profile-api" target="1.8" />
+      <module name="ext-profiles-resource" target="1.8" />
+      <module name="ext-relos-kernel" target="1.8" />
+      <module name="ext-resource-addresses-epcommerce" target="1.8" />
+      <module name="ext-resource-coupons-epcommerce" target="1.8" />
+      <module name="ext-resource-promotions-api" target="1.8" />
+      <module name="ext-resource-recommendations-epcommerce" target="1.8" />
+      <module name="ext-resource-shipmentdetails-epcommerce" target="1.8" />
+      <module name="ext-rs-authentication-spring-oauth2" target="1.8" />
+      <module name="ext-schema-documentation" target="1.5" />
+      <module name="ext-search" target="1.8" />
+      <module name="ext-search-api" target="1.8" />
+      <module name="ext-search-parent" target="1.5" />
+      <module name="ext-search-resource" target="1.8" />
+      <module name="ext-search-resource-epcommerce" target="1.8" />
+      <module name="ext-search-webapp" target="1.8" />
+      <module name="ext-shipmentdetails-api" target="1.8" />
+      <module name="ext-shipmentdetails-resource" target="1.8" />
+      <module name="ext-studio-webapp" target="1.8" />
+      <module name="ext-sync" target="1.8" />
+      <module name="ext-sync-cli" target="1.5" />
+      <module name="ext-sync-parent" target="1.5" />
+      <module name="extcarts-resource" target="1.8" />
+      <module name="extcarts-resource-epcommerce" target="1.8" />
+      <module name="extensions-repositories-integration-override" target="1.8" />
+      <module name="extensions-resource-carts-epcommerce-override" target="1.8" />
+      <module name="extensions-resource-carts-override" target="1.8" />
+      <module name="extensions-resource-paymentmethods-epcommerce-override" target="1.8" />
+      <module name="extensions-resource-paymentmethods-override" target="1.8" />
+      <module name="extensions-resource-prices-epcommerce-override" target="1.8" />
+      <module name="extensions-resource-profiles-epcommerce-override" target="1.8" />
+      <module name="extensions-resource-promotions-epcommerce-override" target="1.8" />
+      <module name="extensions-resource-purchases-epcommerce-override" target="1.8" />
+      <module name="extensions-resource-purchases-override" target="1.8" />
+      <module name="external-discount-api" target="1.8" />
+      <module name="external-discount-resource" target="1.8" />
+      <module name="external-discount-resource-epcommerce" target="1.8" />
+      <module name="filteroptions-api" target="1.8" />
+      <module name="finance-api" target="1.8" />
+      <module name="finance-resource" target="1.8" />
+      <module name="finance-resource-epcommerce" target="1.8" />
+      <module name="flowtype-lookup-epcommerce" target="1.8" />
+      <module name="image-uploads-api" target="1.8" />
+      <module name="image-uploads-resource" target="1.8" />
+      <module name="image-uploads-resource-epcommerce" target="1.8" />
+      <module name="installmenthistory-api" target="1.8" />
+      <module name="integration-util" target="1.8" />
+      <module name="integrationutil" target="1.8" />
+      <module name="inventory-api" target="1.8" />
+      <module name="inventory-import" target="1.8" />
+      <module name="inventory-resource" target="1.8" />
+      <module name="inventory-resource-epcommerce" target="1.8" />
+      <module name="itemconfigurations-api" target="1.8" />
+      <module name="itemconfigurations-resource" target="1.8" />
+      <module name="itemconfigurations-resource-epcommerce" target="1.8" />
+      <module name="line-totals-api" target="1.8" />
+      <module name="line-totals-resource" target="1.8" />
+      <module name="line-type-api" target="1.8" />
+      <module name="line-type-resource" target="1.8" />
+      <module name="line-type-resource-epcommerce" target="1.8" />
+      <module name="lineitem-discount-api" target="1.8" />
+      <module name="lineitem-discount-resource" target="1.8" />
+      <module name="lineitem-service-api" target="1.8" />
+      <module name="lines-api" target="1.8" />
+      <module name="lines-resource" target="1.8" />
+      <module name="lines-resource-epcommerce" target="1.8" />
+      <module name="monthly-discounts-api" target="1.8" />
+      <module name="monthlydiscounts-resource" target="1.8" />
+      <module name="monthlydiscounts-resource-epcommerce" target="1.8" />
+      <module name="monthlypayments-api" target="1.8" />
+      <module name="monthlypayments-resource" target="1.8" />
+      <module name="monthlypayments-resource-epcommerce" target="1.8" />
+      <module name="oauthtoken-api" target="1.8" />
+      <module name="oauthtoken-resource" target="1.8" />
+      <module name="offer-criteria-api" target="1.8" />
+      <module name="offer-criteria-resource" target="1.8" />
+      <module name="offer-criteria-resource-epcommerce" target="1.8" />
+      <module name="offers-api" target="1.8" />
+      <module name="offers-resource" target="1.8" />
+      <module name="offers-resource-epcommerce" target="1.8" />
+      <module name="override-price-options-api" target="1.8" />
+      <module name="override-price-options-resource" target="1.8" />
+      <module name="override-price-options-resource-epcommerce" target="1.8" />
+      <module name="paynowprices-resource" target="1.8" />
+      <module name="paynowprices-resource-epcommerce" target="1.8" />
+      <module name="plan-configurations-api" target="1.8" />
+      <module name="plan-configurations-resource" target="1.8" />
+      <module name="plan-configurations-resource-epcommerce" target="1.8" />
+      <module name="price-options-filter-api" target="1.8" />
+      <module name="price-types-api" target="1.8" />
+      <module name="price-types-resource" target="1.8" />
+      <module name="price-types-resource-epcommerce" target="1.8" />
+      <module name="priceoptions-api" target="1.8" />
+      <module name="priceoptions-resource" target="1.8" />
+      <module name="priceoptions-resource-epcommerce" target="1.8" />
+      <module name="product-definitions-api" target="1.8" />
+      <module name="product-definitions-resource" target="1.8" />
+      <module name="product-definitions-resource-epcommerce" target="1.8" />
+      <module name="products-api" target="1.8" />
+      <module name="products-resource" target="1.8" />
+      <module name="products-resource-epcommerce" target="1.8" />
+      <module name="promotion-aes-repository" target="1.8" />
+      <module name="promotion-cleanup" target="1.8" />
+      <module name="promotion-importer" target="1.8" />
+      <module name="refundabledeposit-resource" target="1.8" />
+      <module name="refundabledeposit-resource-epcommerce" target="1.8" />
+      <module name="resource-tmo-paymentmethods-integration" target="1.8" />
+      <module name="resources-api-parent" target="1.5" />
+      <module name="schedule-jobs-integration" target="1.8" />
+      <module name="search-promotion-api" target="1.8" />
+      <module name="search-promotion-resource" target="1.8" />
+      <module name="search-promotions-resource-epcommerce" target="1.8" />
+      <module name="servicetype-lookup-epcommerce" target="1.8" />
+      <module name="shipping-option-tax-api" target="1.8" />
+      <module name="shipping-option-tax-resource" target="1.8" />
+      <module name="shippingoptiontax-resource-epcommerce" target="1.8" />
+      <module name="sortoptions-api" target="1.8" />
+      <module name="standard-schemas" target="1.5" />
+      <module name="tax-import" target="1.8" />
+      <module name="taxproviders" target="1.8" />
+      <module name="tmo-paymentmethods-resource" target="1.8" />
+      <module name="trade-ins-api" target="1.8" />
+      <module name="utility-service-epcommerce" target="1.8" />
+      <module name="uuid-filter-resource" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

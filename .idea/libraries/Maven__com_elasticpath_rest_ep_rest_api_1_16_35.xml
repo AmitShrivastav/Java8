@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.elasticpath.rest:ep-rest-api:1.16.35">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/elasticpath/rest/ep-rest-api/1.16.35/ep-rest-api-1.16.35.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/elasticpath/rest/ep-rest-api/1.16.35/ep-rest-api-1.16.35-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/elasticpath/rest/ep-rest-api/1.16.35/ep-rest-api-1.16.35-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

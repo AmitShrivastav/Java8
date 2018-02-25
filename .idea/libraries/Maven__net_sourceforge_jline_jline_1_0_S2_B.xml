@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.sourceforge.jline:jline:1.0.S2-B">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/jline/jline/1.0.S2-B/jline-1.0.S2-B.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/jline/jline/1.0.S2-B/jline-1.0.S2-B-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/jline/jline/1.0.S2-B/jline-1.0.S2-B-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

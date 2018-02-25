@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.elasticpath:ep-test-payment-gateway:616.0.0.20160623200014">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/elasticpath/ep-test-payment-gateway/616.0.0.20160623200014/ep-test-payment-gateway-616.0.0.20160623200014.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/elasticpath/ep-test-payment-gateway/616.0.0.20160623200014/ep-test-payment-gateway-616.0.0.20160623200014-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/elasticpath/ep-test-payment-gateway/616.0.0.20160623200014/ep-test-payment-gateway-616.0.0.20160623200014-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

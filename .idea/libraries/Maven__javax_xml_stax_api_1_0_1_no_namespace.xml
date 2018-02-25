@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: javax.xml:stax-api:1.0.1-no-namespace">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/stax-api/1.0.1-no-namespace/stax-api-1.0.1-no-namespace.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/stax-api/1.0.1-no-namespace/stax-api-1.0.1-no-namespace-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/stax-api/1.0.1-no-namespace/stax-api-1.0.1-no-namespace-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

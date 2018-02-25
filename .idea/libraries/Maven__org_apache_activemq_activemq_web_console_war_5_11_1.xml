@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.activemq:activemq-web-console:war:5.11.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-web-console/5.11.1/activemq-web-console-5.11.1.war!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-web-console/5.11.1/activemq-web-console-5.11.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-web-console/5.11.1/activemq-web-console-5.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
